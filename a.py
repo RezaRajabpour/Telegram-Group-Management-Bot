@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from telegram import ChatPermissions, Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes, CommandHandler
 
-TOKEN = "7532551653:AAFFi0Lq2kQtzoWNzw6vYp5AvW4e3RWxyeE"
+TOKEN = ""
 WARNINGS_FILE = "warning.json"
 BANNED_WORDS_FILE = "a.txt"
 
